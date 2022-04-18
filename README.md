@@ -25,7 +25,7 @@
 
 
 
-##### Footer
+##### Footer Page
 ![ScreenShot of Form](screensorts/f.png)
 
 ## Known Bugs
