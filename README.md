@@ -11,8 +11,10 @@
 ##### Information of Recipient
 ![ScreenShot of Form](screensorts/c.png)
 
-##### Shipping 
+
+##### Recipient List View More
 ![ScreenShot of Form](screensorts/d.png)
+
 
 ##### Payment
 ![ScreenShot of Form](screensorts/e.png)
