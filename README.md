@@ -16,7 +16,7 @@
 ![ScreenShot of Form](screensorts/d.png)
 
 
-##### Payment
+##### Conatct Page
 ![ScreenShot of Form](screensorts/e.png)
 
 ##### Place Order
