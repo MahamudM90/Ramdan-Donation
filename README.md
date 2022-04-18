@@ -30,9 +30,8 @@
 
 ## Run it Locally
 ```
-$ git clone https://github.com/MahamudM90/BOI-GHOR
-$ cd boi-ghor
+$ git clone https://github.com/MahamudM90/Ramdan-Donation
+$ cd Ramdan-Donation
 $ npm install
-$ npm run dev
-$ Open http://localhost:3000/api/seed
+$ npm start
 $ Open http://localhost:3000
