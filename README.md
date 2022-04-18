@@ -8,7 +8,7 @@
 
 
 
-##### CartPage
+##### Information of 
 ![ScreenShot of Form](screensorts/c.png)
 
 ##### Shipping 
