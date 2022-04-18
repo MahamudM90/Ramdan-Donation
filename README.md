@@ -28,3 +28,11 @@
 ##### Footer
 ![ScreenShot of Form](screensorts/f.png)
 
+## Run it Locally
+```
+$ git clone https://github.com/MahamudM90/BOI-GHOR
+$ cd boi-ghor
+$ npm install
+$ npm run dev
+$ Open http://localhost:3000/api/seed
+$ Open http://localhost:3000
