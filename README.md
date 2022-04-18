@@ -28,6 +28,10 @@
 ##### Footer
 ![ScreenShot of Form](screensorts/f.png)
 
+## Known Bugs
+Feel free to email me at mahamud01795@gmail.com if you run into any issues or have questions, ideas or concerns. Please enjoy
+and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
+
 ## Run it Locally
 ```
 $ git clone https://github.com/MahamudM90/Ramdan-Donation
@@ -36,7 +40,5 @@ $ npm install
 $ npm start
 $ Open http://localhost:3000
 
-## Known Bugs
-Feel free to email me at mahamud01795@gmail.com if you run into any issues or have questions, ideas or concerns. Please enjoy
-and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
+
 
