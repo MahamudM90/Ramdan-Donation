@@ -8,7 +8,7 @@
 
 
 
-##### Information of 
+##### Information of Recipient
 ![ScreenShot of Form](screensorts/c.png)
 
 ##### Shipping 
