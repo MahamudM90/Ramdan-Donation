@@ -12,7 +12,7 @@
 
 
 
-##### Information of Recipient
+##### Information of the Recipient
 ![ScreenShot of Form](screensorts/c.png)
 
 
